@@ -20,7 +20,7 @@ body{
 main{
     position: relative;
     height: 100vh;
-    position: relative;
+   
     
 }
 
@@ -56,8 +56,8 @@ section#redes img {
 }
 
  section#redes img:hover{
-    border: 2px solid rgba(255, 255, 255, 0.795);
+    border: 2px solid rgba(255, 255, 255, 0.774);
     transform: translate(-3px, -3px);
-    box-shadow: 5px 5px 10px;
+    box-shadow: 5px 5px 10px rgba(168, 113, 190, 0.801);
     transition: transform .3s, border .2s;
  }
